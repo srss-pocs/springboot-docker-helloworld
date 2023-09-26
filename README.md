@@ -1,7 +1,7 @@
 A Simple Spring Boot Docker Hello World Application 
 
 Steps
-1. Install Docker Desktop
+1. Install Docker Desktop [https://docs.docker.com/desktop/install/windows-install/]
 2. Open command prompt in admin mode and run  "wsl install"
 3. swl -l -v should be version 2
 4. check docker version -> docker -v
