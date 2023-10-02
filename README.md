@@ -16,3 +16,7 @@ Steps
 11. 8080 : is springboot port runs in docker
 12. 9090 : on which we can access the API
 13. http://localhost:9090/message
+
+
+docker tag spring-boot-docker-helloworld.jar .../spring-boot-docker-helloworld.jar
+docker push .../spring-boot-docker-helloworld.jar
